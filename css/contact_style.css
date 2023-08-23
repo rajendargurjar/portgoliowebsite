@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(56, 120, 136);
+    
+}
+fieldset{
+    width: 50%;
+    border: 2px solid red;
+    padding: 2rem;
+    margin-top: 5rem;
+    margin-left: 20rem;
+}
+legend{
+    text-align: center;
+    border: 2px solid red;
+    box-shadow: 2px 2px 10px 0px white;
+}
+form input,.form-control{
+    background: transparent;
+    border: 2px solid rgb(190, 162, 162);
+}
+form label{
+    color: aqua;
+}
